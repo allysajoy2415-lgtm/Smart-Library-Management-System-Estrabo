@@ -10,5 +10,5 @@ Project Modules
 - Reports
 Development Team
 Student Name: Estrabo, Allysa Joy R.
-Course: BSIT-SD
-Section: 2C
+Course: IT-3012
+Section:  BSIT-SD 2C
