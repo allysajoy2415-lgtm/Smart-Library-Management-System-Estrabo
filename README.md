@@ -19,3 +19,6 @@ Features
 - Update Member Information
 - Delete Member Record
 - Search Member
+  
+New Feature Added: Library Usage Reports
+- Generates daily and monthly activity summaries
